@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours documentaire en français présente le Core Module d’Angle, son architecture modulaire, la gouvernance du surplus et ses limites de sécurité. Voir [docs/fr/](docs/fr/) pour le sommaire.
+
 # <img src="logo.svg" alt="Angle Core Module" height="40px"> Angle Core Module
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.angle.money/angle-core-module/overview)
